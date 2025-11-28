@@ -286,3 +286,43 @@ h3 {
     margin: clamp(1rem, 1vw, 4rem);
     white-space:  nowrap;
 }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    white-space:  nowrap;
+    padding-top: 1rem;
+    margin-top: 10rem;
+}
+
+footer p {
+    font-size: clamp(5px, 1.5vh, 40px);
+    color: white;
+    white-space:  nowrap;
+}
+
+.logo-footer {
+    font-size: clamp(10px, 1.5vh, 30px);
+    color: var(--dourado);
+}
+
+.logo-footer img {
+    width: 1%;
+    height: 1%;
+}
+
+.social-footer {
+    align-items: center;
+}
+
+@keyframes pulse {
+    100% {
+      transform: scale(1);
+      opacity: 0.7;
+    }
+    200% {
+      transform: scale(1.1);
+      opacity: 90%;
+    }
+  }
