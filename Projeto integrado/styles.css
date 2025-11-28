@@ -127,3 +127,92 @@ h2 {
     font-family: "Poppins", sans-serif;
     display: flex;
 }
+
+
+h3 {
+    color: white;
+    font-size: 30px;
+    margin: 5rem;
+    font-family: "Poppins", sans-serif;
+}
+
+.sobre span {
+    color: white;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.sobre1 {
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    border: 2px solid #00d9ffcb;
+    transition: all 0.3s ease-in-out;
+    padding: 3rem;
+    border-radius: 3rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.sobre1 p {
+    margin-bottom: 3rem;
+}
+
+.sobre1 span {
+    font-size: 20px;
+}
+
+.sobre1:hover {
+    border-color: #051eff;
+    box-shadow: 0 0 15px rgba(0, 135, 245, 0.4);
+}
+
+.sobre2 {
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    border: 2px solid #C5A358;
+    padding: 3rem;
+    border-radius: 3rem;
+    margin-bottom: 5rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.sobre2 p {
+    margin-bottom: 5rem;
+}
+
+.sobre2 span {
+    font-size: 20px;
+}
+
+.sobre2:hover {
+    border-color: #fffc50;
+    box-shadow: 0 0 15px rgba(255, 190, 0, 0.4);
+}
+
+
+.sobre3 {
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    border: 2px solid #6708ff;
+    padding: 3rem;
+    border-radius: 3rem;
+    margin-bottom: 5rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.sobre3 p {
+    margin-bottom: 3rem;
+}
+
+.sobre3 span {
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.sobre3:hover {
+    border-color: #6708ff;
+    box-shadow: 0 0 15px rgb(21, 4, 255);
+}
