@@ -94,6 +94,8 @@ main{
     justify-content: center;
     flex-direction: column;
     display: flex;
+    margin-top: 5rem;
+    white-space: nowarp;
 
 }
 
