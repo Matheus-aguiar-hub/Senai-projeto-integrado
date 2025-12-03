@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: none;
+    transition: 0.2 linear;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+ol, ul, li{
+    list-style: none;
+}
+
+
+
+
+
+
+
