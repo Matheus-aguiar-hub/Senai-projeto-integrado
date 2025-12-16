@@ -91,3 +91,29 @@ h2{
 .quartaTransicao:hover{
     font-size: 25px;
 }
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 40px;
+}
+
+.tela {
+    background-color: #e6d39c;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.tela h2 {
+    margin-bottom: 20px;
+}
+
+.tela img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #000;
+    border-radius: 8px;
+}
