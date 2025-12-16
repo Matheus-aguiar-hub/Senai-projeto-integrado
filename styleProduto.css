@@ -15,3 +15,79 @@ body{
     max-width: 90%;
     background-color: #1A1A1A;
 }
+
+body{
+    margin: auto;
+    height: 100%;
+    max-width: 90%;
+    background-color: #1A1A1A;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px 40px;
+}
+
+.nomeDaEmpresa{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+
+.servicosDoProduto{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    font-size: 20px;
+    align-items: center;
+    color: white;
+    
+}
+
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    color: #C5A358;
+}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: #C5A358;
+}
+
+.logo{
+    display: flex;
+    height: clamp(20px, 5vh, 90px);
+    width:  clamp(20px, 5vh, 90px);
+}
+
+.primeiraTransicao{
+    transition: 1s;
+}
+
+.primeiraTransicao:hover{
+    font-size: 25px;
+}
+.segundaTransicao{
+    transition: 1s;
+}
+
+.segundaTransicao:hover{
+    font-size: 25px;
+}
+.terceiraTransicao{
+    transition: 1s;
+}
+
+.terceiraTransicao:hover{
+    font-size: 25px;
+}
+.quartaTransicao{
+    transition: 1s;
+}
+
+.quartaTransicao:hover{
+    font-size: 25px;
+}
