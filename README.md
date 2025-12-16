@@ -6,7 +6,8 @@
 #Prototipo FrontEnd
 
 Visual studio code: figma.com/design/HX2B4mtQ70GG1fYXGwZCz4/Projeto-integrador?node-id=0-1&p=f&t=kE1Iy5CQXBf8Xg00-0
-<img width="1264" height="790" alt="image" src="https://github.com/user-attachments/assets/8d9d3f7b-2444-4271-a93f-294b92b3aefc" />
+<img width="1130" height="751" alt="image" src="https://github.com/user-attachments/assets/802c63d6-8ac9-42c2-a48b-fe557f70210e" />
+
 
 
 ## Linguagens de marcação
