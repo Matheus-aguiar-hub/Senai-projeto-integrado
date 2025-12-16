@@ -101,7 +101,7 @@ main {
 }
 
 .tela {
-    background-color: #e6d39c;
+    background-color: black;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -112,7 +112,7 @@ main {
 }
 
 .tela img {
-    max-width: 100%;
+    max-width: 30%;
     height: auto;
     border: 2px solid #000;
     border-radius: 8px;
